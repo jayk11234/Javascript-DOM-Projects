@@ -1,3 +1,4 @@
-# hello-world
-Exploring Git-hub 
-> I am currrently an undergrad studying Physical Sciences at Miatreyi Collge University of Delhi.I like to code. I like to **dance** and *sing* and watch kdramas.I am am currently studying ==Operating Systems==.
+This repo contains basic webpages that I designed for practise. All these webpages contain HTML,CSS and JavaScript i.e purely frontend , there is no backend involved.
+
+First project : Random Book Generator.
+For people who like to read it can get hard to choose a book when you have hundreds of them on the TBR list. So the random book generator helps you choose a book without losing your mind.
